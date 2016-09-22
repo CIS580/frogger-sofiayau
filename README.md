@@ -64,4 +64,12 @@ Mini and Sports Car art was provided by  [bahi](http://opengameart.org/users/bah
 
 Sedan and Pickup art was provided by  [bahi](http://opengameart.org/users/bahi) of [Open Game Art](http://opengameart.org) under a CC-BY license.
 
+The ship art was provided by [gobusto](http://opengameart.org/users/gobusto) of [Open Game Art](http://opengameart.org) under a CC-BY license.
+
+The road art was provided by [kenney](http://opengameart.org/users/kenney) of [Open Game Art](http://opengameart.org) under a CC-BY license.
+
+The pond art was provided by [nicubunu](http://opengameart.org/users/nicubunu) of [Open Game Art](http://opengameart.org) under a CC-BY license.
+
+The shark art was provided by [BlueStone](http://opengameart.org/users/bluestone) of [Open Game Art](http://opengameart.org) under a CC-BY license.
+
 Game framework HTML5/CSS3/Javascript code was written by course instructor Nathan Bean, and released under a CC-BY license.
