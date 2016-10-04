@@ -4,7 +4,6 @@
  * @module exports the Game class
  */
 module.exports = exports = Game;
-
 /**
  * @constructor Game
  * Creates a new game object

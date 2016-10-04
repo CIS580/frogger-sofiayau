@@ -7,7 +7,6 @@ const Player = require('./player');
 const Car = require('./car');
 const Log = require('./log');
 const Shark = require('./shark');
-
 var PickUpImage = new Image();
 var SedanImage = new Image();
 PickUpImage.src = "assets/TRBRYcars [Converted] pickup.svg";

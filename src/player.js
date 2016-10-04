@@ -161,26 +161,7 @@ Player.prototype.render = function(time, ctx) {
       break;
     // TODO: Implement your player's redering according to state
     case "hopping":
-      /*
-      if(input.up)
-        ctx.drawImage(this.spritesheet, 12, 369, 23, 17, game.posX, game.posY, 23, 17);
-        else if (input.down) {
-          ctx.drawImage(spritesheet, 80, 369, 23, 17, game.posX, game.posY, 23, 17);
-        }
-        else if (input.left) {
-          ctx.drawImage(spritesheet, 80, 335, 19, 23, game.posX, game.posY, 19, 23);
-        }
-        else if (input.right) {
-          ctx.drawImage(spritesheet, 12, 335, 19, 23, game.posX, game.posY, 19, 23);
-        }
-        */
-    /*
-    ctx.drawImage(
-      this.spritesheet,
-      this.frame * 64, 64, this.width, this.height,
-      this.x, this.y, 1.5 * this.width, 1.5 *this.height
-    );
-    */
+      
     ctx.drawImage(this.spritesheet, this.frame * 64, 64, this.width, this.height,
        this.x + 100 , 300, 1.5 * this.width , 1.5 *this.height);
        this.x += 1;

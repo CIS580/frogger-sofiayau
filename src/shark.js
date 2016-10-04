@@ -5,7 +5,6 @@
  */
 module.exports = exports = Shark;
 
-
 /**
  * @constructor Snake
  * Creates a new snake object

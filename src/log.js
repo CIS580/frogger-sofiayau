@@ -4,8 +4,6 @@
  * @module exports the Snake class
  */
 module.exports = exports = Log;
-
-
 /**
  * @constructor Snake
  * Creates a new snake object

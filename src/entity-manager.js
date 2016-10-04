@@ -90,7 +90,6 @@ function checkForCollision(entity1, entity2, callback) {
     callback(entity1, entity2);
   }
 }
-
 EntityManager.prototype.renderCells = function(ctx) {
   for(var x = 0; x < this.widthInCells; x++) {
     for(var y = 0; y < this.heightInCells; y++) {
